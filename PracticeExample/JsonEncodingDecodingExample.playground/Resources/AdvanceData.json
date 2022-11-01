@@ -1,0 +1,20 @@
+[
+    {
+        "userId": 1,
+        "userName": "Ferdous",
+        "nick_name": "FM",
+        "occupation": {
+            "name": "Student",
+            "isActive": true
+        },
+        "dateOfBirth": "1995-03-14T00:00:00Z"
+    },
+    {
+        "userId": 2,
+        "userName": "Akash",
+        "nick_name": "AK",
+        "dateOfBirth": "1999-03-14T00:10:00Z"
+    }
+]
+
+
